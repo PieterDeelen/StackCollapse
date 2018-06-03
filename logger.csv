@@ -1,0 +1,7 @@
+Thread,TaskName,TaskDepth,DurationInMillis
+Thread-1,CalculationTask,0,1000
+Thread-1,CalculateInputStatisticsTask,1,100
+Thread-1,FilterInputTask,1,200
+Thread-1,CalculateMapsTask,1,300
+Thread-1,CreateGridsTask,2,100
+Thread-1,CreateMapsTask,2,100
